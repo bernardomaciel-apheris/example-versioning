@@ -37,3 +37,6 @@ theme:
 extra:
   version:
     provider: mike
+
+# FIXME does this break the "stay on the same page" behavior?
+use_directory_urls: false
